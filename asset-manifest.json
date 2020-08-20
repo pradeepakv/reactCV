@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactCV/static/css/main.51544323.chunk.css",
-    "main.js": "/reactCV/static/js/main.c6b7f2a5.chunk.js",
-    "main.js.map": "/reactCV/static/js/main.c6b7f2a5.chunk.js.map",
+    "main.js": "/reactCV/static/js/main.60380bb2.chunk.js",
+    "main.js.map": "/reactCV/static/js/main.60380bb2.chunk.js.map",
     "runtime-main.js": "/reactCV/static/js/runtime-main.8d6539c9.js",
     "runtime-main.js.map": "/reactCV/static/js/runtime-main.8d6539c9.js.map",
     "static/js/2.4b272801.chunk.js": "/reactCV/static/js/2.4b272801.chunk.js",
     "static/js/2.4b272801.chunk.js.map": "/reactCV/static/js/2.4b272801.chunk.js.map",
     "index.html": "/reactCV/index.html",
-    "precache-manifest.cd038b480489a7227b16801e62c7c787.js": "/reactCV/precache-manifest.cd038b480489a7227b16801e62c7c787.js",
+    "precache-manifest.4e89a5d6feccc1510d8d38923b3a719d.js": "/reactCV/precache-manifest.4e89a5d6feccc1510d8d38923b3a719d.js",
     "service-worker.js": "/reactCV/service-worker.js",
     "static/css/main.51544323.chunk.css.map": "/reactCV/static/css/main.51544323.chunk.css.map",
     "static/js/2.4b272801.chunk.js.LICENSE": "/reactCV/static/js/2.4b272801.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.8d6539c9.js",
     "static/js/2.4b272801.chunk.js",
     "static/css/main.51544323.chunk.css",
-    "static/js/main.c6b7f2a5.chunk.js"
+    "static/js/main.60380bb2.chunk.js"
   ]
 }
